@@ -2,8 +2,6 @@
 
 🎓 Computer Science student at **UWM in Olsztyn, Poland**  
 💻 Aspiring **Python Backend Developer**  
-🌱 Always learning new technologies and improving my skills  
-⚡ Passionate about clean code, backend architecture, and solving challenging problems  
 
 ---
 
